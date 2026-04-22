@@ -24,12 +24,13 @@ Grâce à mes différents projets, j'ai développé des compétences dans plusie
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
-* **Intelligence Artificielle & Data** : Apprentissage par renforcement (Q-learning), analyse de données (Jupyter).
-* **Embarqué & Hardware** : Protocoles de communication radio (XBee), Arduino.
+* **Intelligence Artificielle & Data** : Apprentissage par renforcement (Q-learning), analyse de données (Jupyter), **Efficient Deep Learning**.
+* **Embarqué & Hardware** : Protocoles de communication radio (XBee), Arduino, **Parallélisme**.
 * **Développement bas niveau & Logiciel** : Maîtrise des paradigmes objets et bas niveau avec C++ et développement sécurisé avec Rust.
 
-## 🤝 Retrouvez-moi sur les réseaux
+## 🤝 Contact et Réseaux
 
 N'hésitez pas à me contacter si vous souhaitez discuter d'un projet, de code, ou échanger des idées !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez--vous-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/antoine-scherpereel-a07a49293)
+* 📧 **Email** : [scherpereelant@gmail.com](mailto:scherpereelant@gmail.com)
+* 💼 **LinkedIn** : [Antoine Scherpereel](https://fr.linkedin.com/in/antoine-scherpereel-a07a49293)
